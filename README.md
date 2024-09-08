@@ -57,6 +57,6 @@ To get started, follow these steps:
 3. Follow the instructions in the notebook to complete the session.
 
 Go to [Session 1 Folder](https://github.com/HodgePodgeProjects/PythonBasics1/tree/main/Session1)
-Start the [First Session](http://colab.research.google.com/github/HodgePodgeProjects/PythonBasics1/blob/main/Sesson1/Session01.01.ipynb)
+Start the [First Session](http://colab.research.google.com/github/HodgePodgeProjects/PythonBasics1/blob/main/Session1/Session01.01.ipynb)
 
 Happy learning, and enjoy your journey into Python programming!
